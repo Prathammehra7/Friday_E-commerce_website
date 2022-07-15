@@ -1,0 +1,34 @@
+.bottom {
+    background-color: #1b93f6;
+  }
+.footer{
+display: flex;
+padding: 0 10px;
+width: 100%;
+flex-direction: column;
+}
+.navfooterlist{
+  display: table-cell;
+  padding: 6px 70px;
+  width: 20%;
+  
+}
+.navfooter{
+  margin-bottom: 80px;
+  padding: 10px 150px;
+}
+.get{
+  font-size: 20px;
+}
+.navfooterlist li:hover{
+  color: white;
+}
+.navfooterlist div:hover{
+  color: white;
+}
+.text-center {
+    text-align: center;
+    padding: 22px;
+    font-size: 40px;
+    color: white;
+  }

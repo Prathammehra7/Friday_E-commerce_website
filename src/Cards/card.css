@@ -1,0 +1,72 @@
+button {
+  font-weight: 600;
+  border-radius: 10px;
+  width: 200px;
+  padding: 8px 0;
+  transition: 0.4s;
+}
+
+.CardContainer {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-left: 20px;
+
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.h1 {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.container img {
+  height: 200px;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}
+
+
+
+.main img:hover {
+  transform: scale(1.1);
+  
+}
+
+figure {
+
+  background: #fff;
+  overflow: hidden;
+}
+
+figure:hover+span {
+  bottom: -36px;
+  opacity: 1;
+}
+
+.main figure img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.main figure:hover img {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+}
