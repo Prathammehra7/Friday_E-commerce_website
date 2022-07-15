@@ -69,7 +69,7 @@ export default function Footer() {
                                     <a href="#get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#" class="nav_a">Amazon Science</a>
+                                    <a href="#get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>
@@ -93,7 +93,7 @@ export default function Footer() {
                                     <a href="#get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#" class="nav_a">Amazon Science</a>
+                                    <a href="#get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>
