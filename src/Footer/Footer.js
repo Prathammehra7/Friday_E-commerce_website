@@ -30,22 +30,22 @@ export default function Footer() {
                             <div class="get">Get to Know Us</div>
                             <ul>
                                 <li >
-                                    <a href="#get" class="nav_a">About Us</a>
+                                    <a href="/get" class="nav_a">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Careers</a>
+                                    <a href="/get" class="nav_a">Careers</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Press Releases</a>
+                                    <a href="/get" class="nav_a">Press Releases</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Amazon Cares</a>
+                                    <a href="/get" class="nav_a">Amazon Cares</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Gift a Smile</a>
+                                    <a href="/get#get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#get" class="nav_a">Amazon Science</a>
+                                    <a href="/get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>
@@ -54,22 +54,22 @@ export default function Footer() {
                             <div class="get">Get to Know Us</div>
                             <ul>
                                 <li >
-                                    <a href="#get" class="nav_a">About Us</a>
+                                    <a href="/get" class="nav_a">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Careers</a>
+                                    <a href="/get" class="nav_a">Careers</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Press Releases</a>
+                                    <a href="/get" class="nav_a">Press Releases</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Amazon Cares</a>
+                                    <a href="/get" class="nav_a">Amazon Cares</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Gift a Smile</a>
+                                    <a href="/get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#get" class="nav_a">Amazon Science</a>
+                                    <a href="/get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>
@@ -78,22 +78,22 @@ export default function Footer() {
                             <div class="get">Get to Know Us</div>
                             <ul>
                                 <li >
-                                    <a href="#get" class="nav_a">About Us</a>
+                                    <a href="/get" class="nav_a">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Careers</a>
+                                    <a href="/get" class="nav_a">Careers</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Press Releases</a>
+                                    <a href="/get" class="nav_a">Press Releases</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Amazon Cares</a>
+                                    <a href="/get" class="nav_a">Amazon Cares</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Gift a Smile</a>
+                                    <a href="/get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#get" class="nav_a">Amazon Science</a>
+                                    <a href="/get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>
@@ -102,22 +102,22 @@ export default function Footer() {
                             <div class="get">Get to Know Us</div>
                             <ul>
                                 <li >
-                                    <a href="#get" class="nav_a">About Us</a>
+                                    <a href="/get" class="nav_a">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Careers</a>
+                                    <a href="/get" class="nav_a">Careers</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Press Releases</a>
+                                    <a href="/get" class="nav_a">Press Releases</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Amazon Cares</a>
+                                    <a href="/get" class="nav_a">Amazon Cares</a>
                                 </li>
                                 <li>
-                                    <a href="#get" class="nav_a">Gift a Smile</a>
+                                    <a href="/get" class="nav_a">Gift a Smile</a>
                                 </li>
                                 <li class="nav_last ">
-                                    <a href="#get" class="nav_a">Amazon Science</a>
+                                    <a href="/get" class="nav_a">Amazon Science</a>
                                 </li>
                             </ul>
                             </div>

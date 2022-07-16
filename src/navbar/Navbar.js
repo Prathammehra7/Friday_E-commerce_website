@@ -19,10 +19,10 @@ export default function Navbar() {
 
                 <ul class="navlist">
 
-                    <li><a href="/">HOME</a></li>
+                    <li><a href="#home">HOME</a></li>
                     <li><a href="#about">ABOUT</a></li>
                     <div class="lk">
-                    <li><a href="/Login">LOGIN</a></li>
+                    <li><a href="/Login" target={"_main"}>LOGIN</a></li>
                     </div>
                 </ul>
 

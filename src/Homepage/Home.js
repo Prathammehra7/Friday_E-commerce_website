@@ -10,7 +10,7 @@ export default function Home() {
                 <img src="https://img.freepik.com/free-vector/modern-black-friday-horizontal-banner-with-white-brush-stroke-background_1361-3703.jpg?w=2000" alt="" />
             </div>
 
-            <div class="main1">
+            <div class="main1" id="home">
                 <div class="box1">
                     <div class="container1">
                         <a href="#!" >
@@ -77,7 +77,7 @@ export default function Home() {
 
             <section>
                 <div class="photo2">
-                    <a href="#" >
+                    <a href="#photo" >
                         <img className=" w-52 " src="https://rukminim1.flixcart.com/flap/1688/280/image/1d093b1d5ed221e1.jpg?q=50" alt="" />
                     </a>
 
@@ -120,13 +120,14 @@ export default function Home() {
             </div>
             <section>
                 <div class="photo1">
-                    <a href="#" >
+                    <a href="#photo" >
                         <img className=" w-52 " src="https://www.asus.com/WebsitesBanner/IN/banners/foxkkzyesji5rjax/foxkkzyesji5rjax-0_0_desktop_1X.jpg" alt="" />
                     </a>
 
                 </div>
             </section>
-            <section>
+
+            <section id="about">
                 <div class="deals">
                     Hot Deals
                    </div>
