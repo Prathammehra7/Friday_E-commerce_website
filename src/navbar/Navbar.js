@@ -13,7 +13,7 @@ export default function Navbar() {
                     </div>
                 </div>
                 <input type="text" placeholder="Type something to search" name="search"></input>
-                <form action="/action_page.php">
+                <form class="oo" action="/action_page.php">
                     <button class="search" type="submit">Search</button>
                 </form>
 

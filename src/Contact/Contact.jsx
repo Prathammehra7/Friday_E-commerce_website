@@ -15,7 +15,7 @@ export default function Contactpage() {
 
     return (
         <>
-            <div className="formContainer">
+            <div className="formContainer1">
             <div className="formContainer2">
                 <h1>Contact Us</h1>
                 <div className="form">

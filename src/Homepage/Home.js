@@ -14,29 +14,23 @@ export default function Home() {
                 <div class="box1">
                     <div class="container1">
                         <a href="#!" >
-                            <img className=" w-52" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Electronics/Clearance/Clearance_store_Desktop_CC_1x._SY304_CB628315133_.jpg" alt="" />
+                            <img className=" col" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Electronics/Clearance/Clearance_store_Desktop_CC_1x._SY304_CB628315133_.jpg" alt="" />
                         </a>
 
-                        <div className="p-6 w-52">
+                        <div className="font">
                             <h2 class="text"><b>70% off on Electronics device </b></h2>
-                            <p className="pb-4">
-                                Some quick example text to build on the card title and make up the bulk of the card's
-                                content.
-                            </p>
+                            
                             <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
                         </div>
                     </div>
                     <div class="container1">
                         <a href="#!" >
-                            <img className=" w-52" src="https://images-eu.ssl-images-amazon.com/images/G/31/prime/PD22/PC/Image_shoveler/GW/IN-PD-22-teaser-GW_379x304._SY304_CB632599147_.jpg" alt="" />
+                            <img className="col1" src="https://images-eu.ssl-images-amazon.com/images/G/31/prime/PD22/PC/Image_shoveler/GW/IN-PD-22-teaser-GW_379x304._SY304_CB632599147_.jpg" alt="" />
                         </a>
 
-                        <div className="p-6 w-52">
+                        <div className="font">
                             <h2 class="text"><b>Best Deals open now </b></h2>
-                            <p className="pb-4">
-                                Some quick example text to build on the card title and make up the bulk of the card's
-                                content.
-                            </p>
+                          
                             <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
                         </div>
                     </div>
@@ -47,29 +41,23 @@ export default function Home() {
             <div class="box2">
                 <div class="container2">
                     <a href="#!" >
-                        <img className=" w-52" src="https://assets.ajio.com/cms/AJIO/WEB/D-covetedbrands-spykar%20new.jpg" alt="" />
+                        <img className="col" src="https://assets.ajio.com/cms/AJIO/WEB/D-covetedbrands-spykar%20new.jpg" alt="" />
                     </a>
 
-                    <div className="p-6 w-52">
-                        <h2 class="text"><b>Upto 50% off </b></h2>
-                        <p className="pb-4">
-                            Some quick example text to build on the card title and make up the bulk of the card's
-                            content.
-                        </p>
+                    <div className="font">
+                        <h2 class="text"><b>Upto 50% off on SpyKar </b></h2>
+                        
                         <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
                     </div>
                 </div>
                 <div class="container2">
                     <a href="#!" >
-                        <img className=" w-52" src="https://assets.ajio.com/cms/AJIO/WEB/D-covetedbrands-muji%20new.jpg" alt="" />
+                        <img className=" col1" src="https://assets.ajio.com/cms/AJIO/WEB/D-covetedbrands-muji%20new.jpg" alt="" />
                     </a>
 
-                    <div className="p-6 w-52">
-                        <h2 class="text"><b>Upto 60% off </b></h2>
-                        <p className="pb-4">
-                            Some quick example text to build on the card title and make up the bulk of the card's
-                            content.
-                        </p>
+                    <div className="font">
+                        <h2 class="text"><b>Upto 60% off on MUJI</b></h2>
+                       
                         <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
                     </div>
                 </div>
@@ -98,7 +86,7 @@ export default function Home() {
                                 Some quick example text to build on the card title and make up the bulk of the card's
                                 content.
                             </p>
-                            <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
+                            <button type="button" className=" gamingbutton">Button</button>
                         </div>
                     </div>
                     <div class="container3">
@@ -112,7 +100,7 @@ export default function Home() {
                                 Some quick example text to build on the card title and make up the bulk of the card's
                                 content.
                             </p>
-                            <button type="button" className="  px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Button</button>
+                            <button type="button" className="  gamingbutton">Button</button>
                         </div>
                     </div>
                 </div>
